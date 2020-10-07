@@ -1,0 +1,22 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./node_modules/parcel/bin/cli index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "core-js-compat": "^3.4.7",
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.26.12"
+  },
+  "dependencies": {
+    "npm-cli": "^0.1.0",
+    "parcel": "^1.12.4"
+  }
+}
